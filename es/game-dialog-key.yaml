@@ -25,18 +25,18 @@ ACT4_DUNGEON_SHOUTMESSAGE_BOSS_CLOSED: La sala del jefe se ha cerrado.
 ACT4_DUNGEON_SHOUTMESSAGE_BOSS_COMPLETED: ¡Se ha derrotado al jefe del calabozo!
 ACT4_DUNGEON_SHOUTMESSAGE_BOSS_OPEN: La sala del jefe se ha abierto.
 ACT4_DUNGEON_SHOUTMESSAGE_STARTED: ¡El portal del calabozo se ha abierto cerca de la torre central en Bitoren Tundra!
-ACT4_FERNON_SHOUTMESSAGE_CLOSED: Fernon entrance is now closed.
-ACT4_FERNON_SHOUTMESSAGE_OPEN: Fernon entrance is now open!
+ACT4_FERNON_SHOUTMESSAGE_CLOSED: La entrada de fernon cerró.
+ACT4_FERNON_SHOUTMESSAGE_OPEN: La entrada de fernon ha abierto!
 ACT4_NEED_FACTION: Sólo aquellos con una facción pueden viajar a Glacernon.
 ACT4_SHOUTMESSAGE_CAMP_ANGELS: Campamento de los ángeles
 ACT4_SHOUTMESSAGE_CAMP_DEMONS: Campamento de los demonios
 ACT4_SHOUTMESSAGE_FLAG_ALREADY_IN: Ya hay un campamento instalado.
-ACT4_SHOUTMESSAGE_FLAG_NOT_PLACED: No camp built yet.
+ACT4_SHOUTMESSAGE_FLAG_NOT_PLACED: No hay ningún campamento creado todavía.
 ACT4_SHOUTMESSAGE_FLAG_PLACED: Your family camp has been built!
 ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: ¡Lord Mukraju ha muerto!
 ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: ¡Lord Mukraju no ha sido derrotado a tiempo!
 ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: ¡{0} ha invocado a Lord Mukraju!
-ACT4_SHOUTMESSAGE_NEED_FAMILY_FOR_FLAG: You need to be in a family to build a camp.
+ACT4_SHOUTMESSAGE_NEED_FAMILY_FOR_FLAG: Necesitas pertenecer a una familia para entrar en un campamento.
 ACT5_CHATMESSAGE_NO_RECIPE: No se encontró ninguna receta para este tipo de intercambio.
 ACT5_MESSAGE_HEAT_BURNING_SWORD: You have been encased in the heat of the Burning Sword.
 ACT5_MESSAGE_RETURN_DISABLED: No puede volver al punto de retorno.
@@ -100,7 +100,7 @@ BAZAAR_INFO_MAXIMUM_ITEMS_REACHED: Se ha alcanzado el máximo número de objetos
 BAZAAR_INFO_NEEDS_MEDAL: Necesitas el Medallón de NosComerciante para realizar esta acción.
 BAZAAR_INFO_PRICE_EXCEEDS_LIMITS: El precio del objeto sobrepasa el límite.
 BAZAAR_INFO_RESYNC: El cambio de precio del objeto falló. Intentalo de nuevo.
-BAZAAR_NOTIFY_ACTION_OPEN: Open Bazaar
+BAZAAR_NOTIFY_ACTION_OPEN: Bazaar abierto.
 BAZAAR_NOTIFY_TITLE: Bazaar
 BAZAAR_QNA_CHANGE_PRICE_FEE: ¿Quieres cambiar el precio del objeto? Te costará {0} de oro.
 BAZAAR_SHOUTMESSAGE_ITEM_ADDED: El objeto se ha puesto a la venta en el NosBazar.
@@ -190,8 +190,8 @@ COMMANDS_CHATMESSAGE_UNDOCUMENTED: Indocumentado.
 COMMANDS_CHATMESSAGE_USAGES: '[Uso del comando]'
 COSTUME_FUSION_ALREADY_FUSED: '#COSTUME_FUSION_ALREADY_FUSED'
 COSTUME_FUSION_NOT_BOUND_TO_CHARACTER: '#COSTUME_FUSION_NOT_BOUND_TO_CHARACTER'
-COSTUME_FUSION_NOT_PERMANENT: '#COSTUME_FUSION_NOT_PERMANENT'
-COSTUME_FUSION_SUCCESS: '#COSTUME_FUSION_SUCCESS'
+COSTUME_FUSION_NOT_PERMANENT: '#FUSION_DE_TRAJE_NO_PERMANENTE'
+COSTUME_FUSION_SUCCESS: '#FUSION_DE_TRAJE_EXITOSA'
 DAILY_ACHIEVEMENTS_REFRESHED: Daily repeatable achievements have been refreshed.
 DIGNITY_CHATMESSAGE_LOSS: 'Dignidad perdida: -{0}.'
 DIGNITY_CHATMESSAGE_RESTORE: 'Dignidad restaurada: +{0}.'
@@ -200,17 +200,17 @@ DOLL_SHOUTMESSAGE_NOT_IN_ZONE: No estás en la zona designada.
 DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Cantidad de drop incorrecta.
 DROP_SHOUTMESSAGE_FULL: Hay demasiados objetos en este mapa para soltar este objeto.
 DUEL_CHATMESSAGE_INVITATION_EXPIRED: Duel invitation has expired
-DUEL_CHATMESSAGE_LOST: 'You lost the duel. Score: {0}-{1}'
+DUEL_CHATMESSAGE_LOST: 'Perdiste el duelo. Score: {0}-{1}'
 DUEL_CHATMESSAGE_NOT_SAME_MAP: The challenger is on another map
-DUEL_CHATMESSAGE_REQUEST_REFUSED: '{0} has refused your duel request.'
+DUEL_CHATMESSAGE_REQUEST_REFUSED: '{0} rechazó tu petición de duelo.'
 DUEL_CHATMESSAGE_USER_OFFLINE: The challenger is no longer online
-DUEL_CHATMESSAGE_WON: 'You have won the duel! Score: {0}-{1}'
-DUEL_DIALOG_REQUEST_INVITE: '{0} challenged you! Want to accept?'
+DUEL_CHATMESSAGE_WON: '¡Ganaste el duelo! Score: {0}-{1}'
+DUEL_DIALOG_REQUEST_INVITE: '{0} te retó! ¿Aceptas?'
 DUEL_DIALOG_REVIVAL: Continue?
-DUEL_INFO_TARGET_REQUESTS_BLOCKED: This player is blocking duel requests.
+DUEL_INFO_TARGET_REQUESTS_BLOCKED: Este jugador no quiere recibir solicitudes de duelo.
 DUEL_SHOUTMESSAGE_SCORE: '{0} {1}-{2} {3}'
-EMOTES_SHOUTMESSAGE_ALREADY_HAVE: You already have that emote.
-EMOTES_SHOUTMESSAGE_UNLOCKED: You have unlocked the {0} emote!
+EMOTES_SHOUTMESSAGE_ALREADY_HAVE: Ya tienes este emote.
+EMOTES_SHOUTMESSAGE_UNLOCKED: Desbloqueaste el emote {0}!
 ENCOURAGE_CHATMESSAGE_ALREADY_ENCOURAGED: The player has already been encouraged by someone.
 ENCOURAGE_CHATMESSAGE_COOLDOWN: You can encourage only one player per day.
 ENCOURAGE_CHATMESSAGE_GIVEN: Player {0} has been encouraged.
@@ -222,7 +222,7 @@ EQCONVERT_SHOUTMESSAGE_ITEM_CONVERTED_TO: 'Item converted successfully! New Item
 FAMILY_ACHIEVEMENT_UNLOCKED: 'Logro familiar desbloqueado: {0}'
 FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) ha iniciado sesión!'
 FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: ¡Mejora familiar comprada!
-FAMILY_CHATMESSAGE_XP_GAINED: 'Family Reward: {0} FXP'
+FAMILY_CHATMESSAGE_XP_GAINED: 'Recompensa familiar: {0} FXP'
 FAMILY_DIALOG_ALREADY_HAS_THAT_AUTHORITY: Este miembro de la familia ya tiene ese nivel de autoridad.
 FAMILY_DIALOG_ASK_DISMISS_FAMILY: ¿Quieres deshacer tu familia? No hay vuelta atrás.
 FAMILY_DIALOG_ASK_JOIN_CONFIRMATION: ¿Estás seguro de que quieres unirte a la familia?
@@ -245,7 +245,7 @@ FAMILY_INFO_INVITATION_NOT_ALLOWED: ¡No tienes permisos para invitar a jugadore
 FAMILY_INFO_INVITATION_REFUSED: El jugador rechazó la invitación.
 FAMILY_INFO_JOIN_INVITATION_TARGET_COOLDOWN: This person cannot join a family yet.
 FAMILY_INFO_KEEPER_LIMIT_REACHED: Límite de administradores alcanzado.
-FAMILY_INFO_KICK_SUCCESSFULL: User kicked.
+FAMILY_INFO_KICK_SUCCESSFULL: Usuario expulsado.
 FAMILY_INFO_LEAVE: Has abandonado la familia.
 FAMILY_INFO_NAME_ALREADY_USED: ¡Este nombre ya está en uso!
 FAMILY_INFO_NO_FAMILY: No tienes familia.
@@ -254,7 +254,7 @@ FAMILY_INFO_NO_FAMILY_WAREHOUSE: No hay almacen familiar.
 FAMILY_INFO_NOT_FAMILY_HEAD: ¡No eres el cabecilla!
 FAMILY_INFO_NOT_IN_FAMILY: ¡No estás en una familia!
 FAMILY_INFO_SERVICE_MAINTENANCE_MODE: El servicio familiar se encuentra actualmente en mantenimiento.
-FAMILY_INFO_SUCCESSFULLY_JOINED: You have joined the family.
+FAMILY_INFO_SUCCESSFULLY_JOINED: Has entrado en la familia.
 FAMILY_INFO_TARGET_NEEDS_TO_BE_DEPUTY: ¡Este jugador tiene que ser un representante!
 FAMILY_INFO_TODAY_LOW_LEVEL: Tienes que ser nivel 30 mínimo para usar tu frase diaria.
 FAMILY_INFO_USED_DAILY_MESSAGE: Ya has publicado tu mensaje diario.
@@ -278,28 +278,28 @@ FAMILY_SHOUTMESSAGE_MEMBER_JOINED: ¡El jugador {0} se ha unido a la familia!
 FAMILY_SHOUTMESSAGE_SHOUT: '{0} > {1}'
 FAMILY_SHOUTMESSAGE_X_LEFT_FAMILY: '{0} left your family.'
 FAMILYARENA_INFO_ASK_ENTER: ¿Quieres entrar a la arena familiar? Te costará {0} de oro.
-FARMING_REPORT_NOTIFY_ACTION_OPEN: Open the Report
+FARMING_REPORT_NOTIFY_ACTION_OPEN: Abrir el Reporte
 FARMING_REPORT_NOTIFY_DESC: Check your farming report!
 FARMING_REPORT_NOTIFY_TITLE: Farming Report
-FERNON_NOTIFY_RAID_STARTED: Fernon raid has started!
+FERNON_NOTIFY_RAID_STARTED: ¡El raid Fernon ha empezado!
 FERNON_NOTIFY_TITLE: Fernon
-FISHING_MSG_ENCYCLOPAEDIA_COMPLETED: Your Encyclopaedia of Fish is complete!
-FISHING_MSG_ONLY_ON_FISHING: This is only available to you when you cast your fishing line.
-FISHING_MSG_REGION_COMPLETED: You've caught all the fish in this region
-FISHING_SAY_ALREADY: I'm fishing already.
-FISHING_SAY_CANNOT_USED_HERE: You cannot use teleport on this map.
-FISHING_SAY_CANT_FISH_HERE: You can't fish here!
-FISHING_SAY_CATCH_NOTHING: Bad luck... Unfortunately, nothing bit.
+FISHING_MSG_ENCYCLOPAEDIA_COMPLETED: '¡Has completado tu enciclopedia de pesca!'
+FISHING_MSG_ONLY_ON_FISHING: Esto solo está disponible para ti cuando lanzas tu línea de pescar.
+FISHING_MSG_REGION_COMPLETED: Ya has pescado todos los peces en esta zona.
+FISHING_SAY_ALREADY: Actualmente estoy pescando.
+FISHING_SAY_CANNOT_USED_HERE: No puedes teletransportarte en este mapa.
+FISHING_SAY_CANT_FISH_HERE: ¡No puedes pescar aquí!
+FISHING_SAY_CATCH_NOTHING: Mala suerte... Desafortunada mente, nada de nada.
 FISHING_SAY_FIRST_FISH: This is only available to you when you cast your fishing line.
-FISHING_SAY_FISH_ATE_BAIT: Ugh, the fish ate the bait!
-FISHING_SAY_LINE_BROKE: Oh, my fishing line broke!
-FISHING_SAY_LOW_JOB_LEVEL: Your fishing level is too low to fish here.
-FISHING_SAY_NO_BAIT: You don't have any bait so you can't go fishing.
-FISHING_SAY_NO_LINE: You don't have a fishing line so you can't go fishing.
+FISHING_SAY_FISH_ATE_BAIT: ¡Uf, el pez se comió el cebo!
+FISHING_SAY_LINE_BROKE: Oh, ¡Se me rompió la caña de pescar!
+FISHING_SAY_LOW_JOB_LEVEL: Tu nivel de pesca es demasiado bajo para pescar aquí.
+FISHING_SAY_NO_BAIT: No tienes cebo, no puedes ir a pescar.
+FISHING_SAY_NO_LINE: No tienes una caña para poder pescar.
 FISHING_SAY_NOTHING_BIT: Bad luck... Unfortunately, nothing bit.
-FISHING_SAY_OVER_JOB_LEVEL: Your fishing level is too high to fish here.
-FISHING_SAY_PERSONAL_RECORD: This is the biggest fish of this species you have caught!
-FORTUNE_WHEEL_CHATMESSAGE_FAIL: Something went wrong when adding a spin to your account. If the problem persists, please contact the support.
+FISHING_SAY_OVER_JOB_LEVEL: Tu nivel es demasiado alto para pescar aquí.
+FISHING_SAY_PERSONAL_RECORD: ¡Este es el pez más grande de esta especie que has capturado!
+FORTUNE_WHEEL_CHATMESSAGE_FAIL: Algo salió mal al agregar un giro a su cuenta. Si el problema continua, por favor, contacta con el soporte.
 FORTUNE_WHEEL_CHATMESSAGE_SUCCESS: A spin has been added to your account! You can redeem it on the dashboard!
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0} ha iniciado sesión.'
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: '{0} se ha desconectado.'
@@ -323,10 +323,10 @@ GAMBLING_MESSAGE_FAILED: ¡Fallaste la apuesta! El objeto ha sido destruido.
 GAMBLING_MESSAGE_FAILED_ITEM_SAVED: Fallaste la apuesta, pero el objeto no se destruyó gracias al amuleto.
 GAMBLING_MESSAGE_GAMBLE_BLOCKED_WITHOUT_AMULET: Tienes la opción 'Apuesta Segura' activada, desactívala si quieres apostar sin amuleto.
 GAMBLING_MESSAGE_ITEM_IS_HEROIC: No puedes apostar equipamiento heroico.
-GAMBLING_MESSAGE_ITEM_IS_NOT_HEROIC: This item is not heroic.
+GAMBLING_MESSAGE_ITEM_IS_NOT_HEROIC: Este item no es heorico.
 GAMBLING_MESSAGE_SUCCESS: '¡Apuesta exitosa! Nuevo nivel de rareza: {0}'
 GAME_FEATURE_DISABLED: Esta opción está desactivada actualmente.
-GAMEEVENT_CHATMESSAGE_NO_REQUIREMENT: You dont fulfill the necessary requirements to enter this mode
+GAMEEVENT_CHATMESSAGE_NO_REQUIREMENT: No cumples con los requisitos necesarios para ingresar a este modo
 GAMEEVENT_DIALOG_ASK_PARTICIPATE: ¿Quieres participar en {0}?
 GAMEEVENT_DIALOG_ASK_PARTICIPATE_WITH_COST: ¿Quieres participar en {0}? Te costará {1} oro.
 GAMEEVENT_MESSAGE_NOT_IN_GENERAL_MAP: No puedes entrar al evento si no estás en un mapa general.
@@ -335,7 +335,7 @@ GAMEEVENT_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: No hay jugadores suficientes para el 
 GAMEEVENT_SHOUTMESSAGE_PREPARATION_MINUTES: '{0} empezará en {1} minutos.'
 GAMEEVENT_SHOUTMESSAGE_PREPARATION_SECONDS: '{0} empezará en {1} segundos.'
 GAMEEVENT_SHOUTMESSAGE_WILL_FINISH_IN_A_MINUTE: '{0} terminará en un minuto.'
-GENERAL_SHOUTMESSAGE_TOO_FAR_TO_UNFREEZE: You are too far to unfreeze!
+GENERAL_SHOUTMESSAGE_TOO_FAR_TO_UNFREEZE: ¡Estás demasiado lejos para descongelar!
 GROUP_CHATMESSAGE_DROP_ORDERED: '(Grupo) [{0}x {1}] para: {2}'
 GROUP_CHATMESSAGE_DROP_SHARED: (Grupo) [{0}x {1}] para todos
 GROUP_CHATMESSAGE_REQUEST_REFUSED: '{0} ha rechazado tu solicitud.'
@@ -344,7 +344,7 @@ GROUP_DIALOG_INVITED_YOU: '{0} te ha enviado una solicitud de grupo.'
 GROUP_INFO_ADMIN: ¡Eres el líder del grupo!
 GROUP_INFO_ALREADY_IN_GROUP: ¡Ya estás en un grupo!
 GROUP_INFO_BLOCKED: El jugador bloquea solicitudes de grupo.
-GROUP_INFO_DISABLED: Groups are disabled on this map
+GROUP_INFO_DISABLED: Los grupos están deshabilitados en este mapa.
 GROUP_INFO_FULL: El grupo está lleno.
 GROUP_INFO_JOIN: ¡Has entrado al grupo del jugador {0}!
 GROUP_INFO_LEFT: Has salido del grupo.
@@ -361,14 +361,14 @@ GROUP_SHOUTMESSAGE_SHARING_BY_ORDER: 'Compartir: por orden'
 GROUP_SHOUTMESSAGE_YOU_ARE_NOT_LEADER: ¡No eres el líder del grupo!
 HARVEST_SHOUTMESSAGE_FAIL_TRY_AGAIN: El intento ha fallado. Vuelve a intentarlo en {0} segundos.
 HARVEST_SHOUTMESSAGE_TRY_FAIL: Desafortunadamente, el intento ha fallado.
-HERO_CHAT_SPEAKER_COOLDOWN: Your Hero Chat is under cooldown, one message every 30 seconds.
+HERO_CHAT_SPEAKER_COOLDOWN: Tu canal de mensajes está en espera, un mensaje cada 30 segundos.
 ICE_DUST_ASK_DIALOG_BUY: '#ICE_DUST_ASK_DIALOG_BUY'
 ICE_DUST_ASK_DIALOG_EXCHANGE: '#ICE_DUST_ASK_DIALOG_EXCHANGE'
 ICE_DUST_SHOUTMESSAGE_WRONG_ITEM_TYPE: '#ICE_DUST_SHOUTMESSAGE_WRONG_ITEM_TYPE'
 ICE_DUST_SHOUTMESSAGE_WRONG_SP: '#ICE_DUST_SHOUTMESSAGE_WRONG_SP'
-ICEBREAKER_INFO_REGISTRATION_CLOSED: The registration is already closed, too much time has passed!
+ICEBREAKER_INFO_REGISTRATION_CLOSED: ¡El tiempo de registro está cerrado, ha pasado mucho tiempo!
 ICEBREAKER_INFO_REGISTRATION_DIALOG: Do you want to participate in the Ice Breaker? It will cost you {1}
-ICEBREAKER_INFO_REGISTRATION_SUCCEEDED: You've been registered successfully! Please wait patiently while the other players join
+ICEBREAKER_INFO_REGISTRATION_SUCCEEDED: ¡Te has registrado exitosamente! Por favor, espera a que otros jugadores se registren.
 ICEBREAKER_NAME: Ice Breaker
 ICEBREAKER_SHOUTMESSAGE_CANT_UNFREEZE_KILL: ¡No puedes descongelar al jugador que has matado!
 ICEBREAKER_SHOUTMESSAGE_END: El IceBreaker ha terminado.
@@ -384,7 +384,7 @@ ICEBREAKER_SHOUTMESSAGE_STARTED: ¡El PvP ha sido activado!
 ICEBREAKER_SHOUTMESSAGE_WIN: ¡Tu equipo ha ganado el Ice Breaker!
 INFORMATION_CHANNEL: Canal
 INFORMATION_CHATMESSAGE_IMPOSSIBLE_TO_USE: ¡No puedes usar eso en este momento!
-INFORMATION_CHATMESSAGE_LEVEL_TOO_LOW_TRAVEL: Your level is not high enough to travel over there.
+INFORMATION_CHATMESSAGE_LEVEL_TOO_LOW_TRAVEL: Tu nivel no es lo suficientemente alto como para viajar hasta allí.
 INFORMATION_CHATMESSAGE_NO_WINGS: ¡No tienes Alas de Amistad!
 INFORMATION_CHATMESSAGE_NOT_ENOUGH_MP: ¡No tienes suficiente MP!
 INFORMATION_CHATMESSAGE_NOT_ENOUGH_REPUT: ¡No tienes suficientes puntos de reputación!
@@ -440,13 +440,13 @@ INFORMATION_SHOUTMESSAGE_SEX_CHANGED: ¡Has cambiado tu género!
 INFORMATION_SHOUTMESSAGE_SHUTDOWN_SEC: El servidor cerrará en {0} seg.
 INFORMATION_SHOUTMESSAGE_SP_LVL_LOW: ¡La especialista tiene que ser al menos nivel {0} para poderla mejorar!
 INFORMATION_SHOUTMESSAGE_SP_POINTS_SET: Puntos añadidos.
-INFORMATION_SHOUTMESSAGE_TOO_HIGH_LVL: Your level is too high!
+INFORMATION_SHOUTMESSAGE_TOO_HIGH_LVL: ¡Tu nivel es demasiado alto!
 INFORMATION_SHOUTMESSAGE_TOO_LOW_LVL: ¡Tu nivel es demasiado bajo!
 INFORMATION_SHOUTMESSAGE_USER_NOT_BASEMAP: ¡El jugador no está en un mapa general!
 INSTANT_COMBAT_NAME: Combate Instantáneo
 INSTANT_COMBAT_SHOUTMESSAGE_MINUTES_REMAINING: El Combate Instantáneo terminará en {0} min.
 INSTANT_COMBAT_SHOUTMESSAGE_MONSTERS_INCOMING: Se acercan monstruos...
-INSTANT_COMBAT_SHOUTMESSAGE_MONSTERS_LEFT: 'Monsters remaining: {0}'
+INSTANT_COMBAT_SHOUTMESSAGE_MONSTERS_LEFT: 'Monstruos restantes: {0}'
 INSTANT_COMBAT_SHOUTMESSAGE_SECONDS_REMAINING: El Combate Instantáneo terminará en {0} seg.
 INSTANT_COMBAT_SHOUTMESSAGE_SUCCEEDED: ¡Felicidades! ¡Has ganado el Combate Instantáneo!
 INSTANT_COMBAT_SHOUTMESSAGE_WAVE_FAILED: Desafortunadamente, no batiste la oleada. No recibiste botín.
@@ -462,7 +462,7 @@ INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_DEMON: ¡Has sido bendecido por el
 INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_NEUTRAL: Has perdido tu poder de protección.
 INTERACTION_SHOUTMESSAGE_NEED_SP_UPGRADE_FOR_WINGS: Para poder cambiar las alas de tu Tarjeta de Especialista, tiene que tener una mejora superior a 0.
 INTERACTION_SPEAKER_UNDER_COOLDOWN: Tu altavoz está en enfriamiento, usa uno cada 30 segundos.
-INTERACTION_SPEAKER_URLS_FORBIDDEN: Speakers can't contain URLs
+INTERACTION_SPEAKER_URLS_FORBIDDEN: El texto de los altavoces no pueden contener enlaces.
 INTERACTION_VESSEL_LIMIT_REACHED: El límite de monstruos de los vasos sellados en este mapa ha sido alcanzado.
 INVENTORY_CHATMESSAGE_GOLD_BONUS_ACQUIRED: 'Has adquirido: {1} x{0} + {2}'
 INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED: Has adquirido {0}x {1}
@@ -478,7 +478,7 @@ ITEM_CHATMESSAGE_EFFECT_ACTIVATED: ¡El efecto {0} ha sido activado!
 ITEM_CHATMESSAGE_ICE_FLOWER_OIL_EXTENDED: Ice Flower Oil effect has been extended.
 ITEM_CHATMESSAGE_NO_GILLION: ¡No tienes suficiente Piedra de Gillion!
 ITEM_CHATMESSAGE_ON_MOUNT: Mientras estés en tu vehículo, solo puedes usar snacks y pociones.
-ITEM_CHATMESSAGE_PARTNER_EQ_NO_HEROIC: You cannot transform a champion equipment into partner equipment.
+ITEM_CHATMESSAGE_PARTNER_EQ_NO_HEROIC: No puedes transformar equipo de héroe en equipo de compañero.
 ITEM_CHATMESSAGE_PVP_COOLDOWN: No puedes usar este objeto ya que acabas de salir de un combate contra otro jugador.
 ITEM_CHATMESSAGE_SIGNPOST_ALREADY_IN: 'Ya tienes una señal de Mini-Mundo establecida. Tiempo restante: {0}'
 ITEM_CHATMESSAGE_TIMEOUT: La duración del item ({0}) ha terminado.
@@ -491,8 +491,8 @@ ITEM_DIALOG_ASK_EXCHANGE: ¿Quieres intercambiar?
 ITEM_DIALOG_ASK_NOT_TRADABLE: ¿Quieres apropiarte de este objeto? Ya no será intercambiable.
 ITEM_DIALOG_ASK_OPEN_BOX: ¿Quieres abrir esta caja?
 ITEM_DIALOG_ASK_OPEN_PET_BEAD: ¿Quieres sacar al NosMate de la perla?
-ITEM_DIALOG_ASK_PET_STORE: Do you want to place your NosMate in a bead? IT'S STAR LEVEL WILL NOT BE SAVED.
-ITEM_DIALOG_ASK_PET_STORE_PET_TRAINER_BEAD: Do you want to place your NosMate in a bead? It's Star-Level will be saved.
+ITEM_DIALOG_ASK_PET_STORE: ¿Quieres meter a tu mascota en la perla? No se guardará su nivel de estrellas.
+ITEM_DIALOG_ASK_PET_STORE_PET_TRAINER_BEAD: ¿Quieres meter a tu mascota en la perla? Se guardará su nivel de estrellas.
 ITEM_DIALOG_ASK_USE: ¿Quieres usar este objeto?
 ITEM_DIALOG_WANT_TO_SAVE_POSITION: ¿Quieres guardar tu posición?
 ITEM_INFO_PET_NAME_TOO_LONG: ¡El nombre del NosMate es demasiado largo! (14 carácteres max.)
@@ -507,11 +507,11 @@ ITEM_SHOUTMESSAGE_CRAFTED_OBJECT: Has creado {1}x {0}.
 ITEM_SHOUTMESSAGE_FACTION_CANT_IN_FAMILY: No puedes usar un huevo de facción individual cuando estás en una familia.
 ITEM_SHOUTMESSAGE_FAIRY_WRONG_ELEMENT: ¡El elemento de tu hada es distinto al elemento de la Tarjeta de Especialista!
 ITEM_SHOUTMESSAGE_IS_LIMITED: You can't do that because NosMate is limited.
-ITEM_SHOUTMESSAGE_MIMIC_FAKE_POTION: ¡Oh ñió, esh una poshión falsha de Mímic! >w<
+ITEM_SHOUTMESSAGE_MIMIC_FAKE_POTION: ¡Oh no, es una poción falsa de mimic! >w<
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE: No puedes tirar este objeto.
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE_HERE: No puedes tirar este objeto en este sitio.
 ITEM_SHOUTMESSAGE_ONLY_IN_MINILAND: Solo puedes hacer esto en el Mini-Mundo.
-ITEM_SHOUTMESSAGE_RELICT_LOW_LEVEL: Your level is too low to examine relicts.
+ITEM_SHOUTMESSAGE_RELICT_LOW_LEVEL: Tu nivel es demasiado bajo para examinar reliquias.
 ITEM_SHOUTMESSAGE_SAME_FACTION: ¡No te puedes cambiar a la facción que ya tienes!
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: ¡No te puedes poner las mismas alas!
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: ¡No te puedes subir a una montura porque tienes un efecto maligno!
@@ -519,29 +519,29 @@ ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL: '#ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL
 ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: Este objeto ha sido deshabilitado temporalmente.
 LAND_OF_LIFE_CHATMESSAGE_REMAINING_TIME: 'Remaining Land of Life Time: {0} min.'
 LAND_OF_LIFE_DIALOG_ASK_REVIVE: '#LAND_OF_LIFE_DIALOG_ASK_REVIVE'
-LAND_OF_LIFE_QNA_ENTER: Would you like to move to the Land of Life?
-LAND_OF_LIFE_RECONNECT_EXPIRED: Sorry, rejoining Land of Life expired, you have to click faster next time.
-LAND_OF_LIFE_RECONNECT_QUESTION_MSG: Do you want to rejoin Land Of Life?
-LAND_OF_LIFE_SHOUTMESSAGE_ALTAR_DESPAWN: The altar has disappeared.
-LAND_OF_LIFE_SHOUTMESSAGE_ALTAR_SPAWN: An altar has appeared somewhere.
-LAND_OF_LIFE_SHOUTMESSAGE_ASGOBAS_DESPAWN: '{0} has disappeared.'
-LAND_OF_LIFE_SHOUTMESSAGE_ASGOBAS_SPAWN: '{0} has started hunting!'
-LAND_OF_LIFE_SHOUTMESSAGE_CLOSED: You cannot enter now.
-LAND_OF_LIFE_SHOUTMESSAGE_FAMILY_REQUIRED: Only family members can enter the land of life.
-LAND_OF_LIFE_SHOUTMESSAGE_KICKED: You must leave the Land of Life as your time has run out.
-LAND_OF_LIFE_SHOUTMESSAGE_LEVEL_MISMATCH: Level doesn't match.
-LAND_OF_LIFE_SHOUTMESSAGE_RESPAWN_ENTRANCE: You will soon return to the Portal to the Land of Life.
-LAND_OF_LIFE_SHOUTMESSAGE_TIME_FINISHED: You cannot enter the Land of Life as you have used up all your time.
-LOD_DIALOG_ASK_REVIVE: Would you like to use Potion of Salvation to revive?
-LOD_SHOUTMESSAGE_HORN_DESPAWN: The Flying Fire Devil has vanished.
-LOD_SHOUTMESSAGE_HORN_SPAWN: The hunt for the Flying Fire Devil has begun.
-LOD_SHOUTMESSAGE_LEVEL_TOO_LOW: Your level is too low.
-LOD_SHOUTMESSAGE_LOD_IS_CLOSED: Land of Death is closed.
-LOD_SHOUTMESSAGE_LOD_IS_IN_MAINTENANCE: Land of Death is under maintenance.
-LOD_SHOUTMESSAGE_NEED_FAMILY_TO_ENTER: Only family members can enter the Land of Death.
-LOYALTY_SYSTEM_CHAT_MESSAGE_MAXIMUM_DAILY_COMPLETIONS: You can't receive more Loyalty Coins from this activity for today.
-LOYALTY_SYSTEM_CHAT_MESSAGE_RECEIVED_COIN: 'You have received {0} coins completing an activity from the Loyalty System. Remaining daily activity completions: {1}'
-LOYALTY_SYSTEM_SHOUT_CANNOT_RECEIVE_MORE_COINS: You can't receive more Loyalty Coins today.
+LAND_OF_LIFE_QNA_ENTER: ¿Querrías entrar a la Tierra de la Vida?
+LAND_OF_LIFE_RECONNECT_EXPIRED: Lo siento, el tiempo para entrar a la Tierra de la Vida expiró, se más rápido la próxima vez.
+LAND_OF_LIFE_RECONNECT_QUESTION_MSG: ¿Quieres volver a entrar a la Tierra de la Vida?
+LAND_OF_LIFE_SHOUTMESSAGE_ALTAR_DESPAWN: El altar ha desaparecido.
+LAND_OF_LIFE_SHOUTMESSAGE_ALTAR_SPAWN: Un altar ha aparecido en alguna parte.
+LAND_OF_LIFE_SHOUTMESSAGE_ASGOBAS_DESPAWN: '{0} ha desaparecido.'
+LAND_OF_LIFE_SHOUTMESSAGE_ASGOBAS_SPAWN: '{0} ha empezado a cazar!'
+LAND_OF_LIFE_SHOUTMESSAGE_CLOSED: No puedes entrar ahora.
+LAND_OF_LIFE_SHOUTMESSAGE_FAMILY_REQUIRED: Solamente los miembros de una familia pueden entrar a la Tierra de la Vida.
+LAND_OF_LIFE_SHOUTMESSAGE_KICKED: Debes abandonar la Tierra de la Vida ya que tu tiempo se ha agotado.
+LAND_OF_LIFE_SHOUTMESSAGE_LEVEL_MISMATCH: El nivel no coincide.
+LAND_OF_LIFE_SHOUTMESSAGE_RESPAWN_ENTRANCE: Pronto regresarás al Portal a la Tierra de la Vida.
+LAND_OF_LIFE_SHOUTMESSAGE_TIME_FINISHED: No puedes entrar en la Tierra de la Vida ya que has agotado todo tu tiempo.
+LOD_DIALOG_ASK_REVIVE: ¿Te gustaría usar la Poción de la Salvación para revivir?
+LOD_SHOUTMESSAGE_HORN_DESPAWN: El Demonio de Fuego Volador ha desaparecido.
+LOD_SHOUTMESSAGE_HORN_SPAWN: La caza del Demonio de Fuego Volador ha comenzado.
+LOD_SHOUTMESSAGE_LEVEL_TOO_LOW: Tu nivel es demasiado bajo.
+LOD_SHOUTMESSAGE_LOD_IS_CLOSED: La Tierra de la Muerte está cerrada.
+LOD_SHOUTMESSAGE_LOD_IS_IN_MAINTENANCE: La Tierra de la Muerte está en mantenimiento.
+LOD_SHOUTMESSAGE_NEED_FAMILY_TO_ENTER: Solamente los miembros de alguna familia pueden entrar a la Tierra de la Muerte.
+LOYALTY_SYSTEM_CHAT_MESSAGE_MAXIMUM_DAILY_COMPLETIONS: No puedes recibir más Monedas de Lealtad de esta actividad por hoy.
+LOYALTY_SYSTEM_CHAT_MESSAGE_RECEIVED_COIN: 'Has recibido {0} completando una actividad del sistema de lealtad. Resto de actividades diarias completadas: {1}'
+LOYALTY_SYSTEM_SHOUT_CANNOT_RECEIVE_MORE_COINS: No puedes recibir más Monedas de Lealtad hoy.
 MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: Has recibido un paquete ({0}/{1}).
 MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Tienes {0} paquete(s) en el buzón.
 MAIL_INFO_OPEN_FAILED: No se ha podido abrir el paquete.
@@ -594,12 +594,12 @@ MUTE_MESSAGE_MALE: ¡He sido un chico muy travieso, así que me han castigado!
 MUTE_SHOUTMESSAGE_PLAYER_IS_MUTED: Este jugador está muteado.
 MUTE_SHOUTMESSAGE_YOU_ARE_MUTED: Estás muteado.
 MYSTERY_BOX_NO_REWARD: You did not get any rewards.
-MYSTERY_BOX_SUPER_REWARD: '{0} won the big prize at the Gods Altar!'
+MYSTERY_BOX_SUPER_REWARD: '¡{0} ganó el gran premio en el Altar de los Dioses!'
 NOTE_CHATMESSAGE_NEW_NOTE: ¡Te ha llegado una nota!
 NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: Tienes {0} notas en la bandeja de entrada.
-NOTE_INFO_CANT_SEND_TO_SELF: You can't send a note to yourself!
-NOTE_INFO_SEND_FAILED: Failed to send a note.
-NOTE_INFO_SENDING_TOO_MANY: You are sending too many notes!
+NOTE_INFO_CANT_SEND_TO_SELF: No te puedes enviar una nota a ti mismo!
+NOTE_INFO_SEND_FAILED: Hubo un fallo al enviar la nota.
+NOTE_INFO_SENDING_TOO_MANY: ¡Estás enviando demasiadas notas!
 NPC_BUFFER_SAY_NPC_YOU_RECEIVED_BUFFPACK: ¡Has recibido el paquete de bendiciones!
 NPC_BUFFER_SHOUT_BUFF_ON_CD: El paquete de bendiciones está en enfriamiento.
 NPC_BUFFER_SHOUT_DAILY_LIMIT_REACHED: Has alcanzado el límite de uso diario de este paquete de bendiciones.
@@ -608,8 +608,8 @@ NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL: Tu nivel es demasiado bajo para recibir 
 NPC_SHOP_LOG_PURCHASE: Has comprado {1}x {0}.
 OPTION_SHOUTMESSAGE_HIDE_COOLDOWNS_DISABLED: '#OPTION_SHOUTMESSAGE_HIDE_COOLDOWNS_DISABLED'
 OPTION_SHOUTMESSAGE_HIDE_COOLDOWNS_ENABLED: '#OPTION_SHOUTMESSAGE_HIDE_COOLDOWNS_ENABLED'
-OPTION_SHOUTMESSAGE_X_DISABLED: Option {0} is now disabled!
-OPTION_SHOUTMESSAGE_X_ENABLED: Option {0} is now enabled!
+OPTION_SHOUTMESSAGE_X_DISABLED: La opción {0} ahora está deshabilitada!
+OPTION_SHOUTMESSAGE_X_ENABLED: La opción {0} ahora está habilitada!
 OPTIONS_SHOUTMESSAGE_BETTING_BLOCK_DISABLED: Opción de Apuesta Segura desactivada
 OPTIONS_SHOUTMESSAGE_BETTING_BLOCK_ENABLED: Opción de Apuesta Segura activada
 OPTIONS_SHOUTMESSAGE_BUFF_DISABLED: Parpadeo de buff desactivado
